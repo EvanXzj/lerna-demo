@@ -1,6 +1,6 @@
 {
   "name": "xiaobawang-math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "EvanXzj <2686465170@qq.com>",
   "homepage": "https://github.com/EvanXzj/lerna-demo#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/EvanXzj/lerna-demo/issues"
   },
   "dependencies": {
-    "xiaobawang-utils": "^1.0.0"
+    "xiaobawang-utils": "^1.0.1"
   }
 }
