@@ -1,0 +1,29 @@
+{
+  "name": "xiaobawang-utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "EvanXzj <2686465170@qq.com>",
+  "homepage": "https://github.com/EvanXzj/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://nexus-1a-1.aws-jp1.huobiidc.com:1025/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanXzj/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/EvanXzj/lerna-demo/issues"
+  }
+}

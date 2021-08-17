@@ -1,0 +1,13 @@
+{
+  "name": "xiaobawang",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EvanXzj/lerna-demo.git",
+  "author": "EvanXzj <2686465170@qq.com>",
+  "license": "MIT",
+  "workspaces":["packages/*"]
+}
